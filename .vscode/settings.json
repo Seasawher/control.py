@@ -1,3 +1,5 @@
 {
   "workbench.colorTheme": "Tokyo Night Horizon (Syntax, Dark+ V2)",
+  "python.analysis.typeCheckingMode": "standard",
+  "mypy-type-checker.args": ["--disallow-untyped-defs"],
 }

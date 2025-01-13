@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "astropy>=7.0.0",
     "control>=0.10.1",
     "ipykernel>=6.29.5",
     "sympy>=1.13.3",
